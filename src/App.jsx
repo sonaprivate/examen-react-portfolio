@@ -18,9 +18,6 @@ const App = () => {
       <Contact />
       <Footer />
 
-
-
-
     </>
   )
 }

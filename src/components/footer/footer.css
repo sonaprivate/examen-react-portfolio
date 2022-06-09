@@ -17,6 +17,10 @@ footer a {
     display: inline-block;
 }
 
+.footer__socials {
+    gap: 1.2rem;
+}
+
 .permalinks {
     display: flex;
     flex-wrap: wrap;

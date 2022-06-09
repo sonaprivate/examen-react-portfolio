@@ -16,35 +16,30 @@ const Experience = () => {
               <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>HTML/CSS</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>Bootstrap</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>Vue</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>
@@ -58,35 +53,30 @@ const Experience = () => {
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>Node JS</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>MongoDB</h4>
-                <small className='text-light'>Basic</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>MSSQL</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>Java</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
             <AiFillCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>C#</h4>
-                <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>

@@ -21,27 +21,23 @@
 .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
     transition: var(--transition);
 }
 
-.about__me-image:hover {
-    transform: rotate(0);
-}
+
 
 .about__cards {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .about__card {
     background: var(--color-bg-variant);
     border: 1px solid transparent;
-    border-radius: 1rem;
+    border-radius: 2rem;
     padding: 2rem;
     text-align-last: center;
-    transition: var(--transition);
 }
 
 .about__card:hover {
@@ -58,16 +54,18 @@
 
 .about__card h5 {
     font-size: 1rem;
+    color: var(--color-primary);
 }
 
-.about__card small {
-    font-size: 0.7rem;
-    color: var(--color-light);
+.about__card text {
+    
+    font-size: 0.9rem;
+    color: var(--color-black);
 }
 
 .about__content p {
     margin: 2rem 0 2.6rem;
-    color: var(--color-light);
+    color: var(--color-dark);
 }
 
 /* -----MEDIA QUERIES (MEDIUM DEVICES)----- */

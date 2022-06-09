@@ -28,7 +28,7 @@ const About = () => {
             <article className='about__card'>
               <IoMdSchool className='about__icon'/>
               <h5>Degrees</h5>
-              <small>Bachelor´s in Media Communication <br/> Higher Vocational Education Diploma In Java</small>
+              <small>* Bachelor's in Media Communication * Higher Vocational Education Diploma In Java</small>
             </article>
           </div>
 
@@ -38,8 +38,6 @@ const About = () => {
             voluptatum autem, nulla in illo ex quo dolore?
           </p>
           
-          <a href="#contact" className='btn btn-primary'>Message Me</a>
-
         </div>
         </div> 
     </section>
